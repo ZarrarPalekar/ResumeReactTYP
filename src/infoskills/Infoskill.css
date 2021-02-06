@@ -1,0 +1,39 @@
+#infoskills {
+  /* padding: 1.5rem 0 1.5rem 0; */
+  width: 100vw;
+  /* max-height: fit-content; */
+  height: 39vh;
+  background-color: brown;
+  display: flex;
+  flex-direction: row;
+  /* justify-content: space-around; */
+  /* align-items: center; */
+  /* font-family: Sacramento, cursive; */
+  font-family: cursive;
+}
+
+.firstsection {
+  background-color: palevioletred;
+  width: 50vw;
+}
+
+.firstsection > p {
+  font-size: 3rem;
+  margin-left: 10vw;
+  color: whitesmoke;
+}
+.secondsection {
+  background-color: orange;
+  width: 50vw;
+}
+
+.secondsection > p {
+  font-size: 3rem;
+  margin-left: 20vw;
+  /* color: whitesmoke; */
+}
+
+.skills {
+  width: 70%;
+  margin-left: 20%;
+}

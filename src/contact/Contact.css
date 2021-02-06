@@ -1,0 +1,57 @@
+#contact {
+  /* padding: 1.5rem 0 1.5rem 0; */
+  width: 100vw;
+  /* max-height: fit-content; */
+  height: 39vh;
+  background-color: brown;
+  display: flex;
+  flex-direction: row;
+  /* justify-content: center; */
+  /* align-items: center; */
+  /* font-family: Sacramento, cursive; */
+  font-family: cursive;
+}
+
+.contactdet {
+  background-color: chartreuse;
+  width: 25vw;
+  text-align: center;
+}
+
+.contactdet > h3 {
+  font-size: 3rem;
+  color: whitesmoke;
+  font-weight: bolder;
+}
+
+.addressdet {
+  background-color: skyblue;
+  width: 25vw;
+  text-align: center;
+}
+
+.addressdet > h3 {
+  font-size: 3rem;
+  color: whitesmoke;
+  font-weight: bolder;
+}
+.teldet {
+  background-color: palevioletred;
+  width: 25vw;
+  text-align: center;
+}
+.teldet > h3 {
+  font-size: 3rem;
+  color: whitesmoke;
+  font-weight: bolder;
+}
+.emaildet {
+  background-color: limegreen;
+  width: 25vw;
+  text-align: center;
+}
+.emaildet > h3 {
+  font-size: 3rem;
+  color: whitesmoke;
+  font-weight: bolder;
+}
