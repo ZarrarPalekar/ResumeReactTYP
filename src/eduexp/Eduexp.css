@@ -1,9 +1,9 @@
-#infoskills {
+#eduexp {
   /* padding: 1.5rem 0 1.5rem 0; */
   width: 100vw;
   /* max-height: fit-content; */
   height: 39vh;
-  background-color: limegreen;
+  /* background-color: brown; */
   display: flex;
   flex-direction: row;
   /* justify-content: space-around; */
@@ -12,34 +12,32 @@
   font-family: cursive;
 }
 
-.firstsection {
-  background-color: palevioletred;
+.firstsectionedu {
+  background-color: limegreen;
   width: 50vw;
-  height: 16vw;
+  height: fit-content;
+
+  /* position: absolute; */
 }
 
-.firstsection > p {
+.firstsectionedu > p {
   font-size: 3rem;
-  margin-left: 7vw;
+  margin-left: 15vw;
   color: whitesmoke;
 }
 
-.firstsection > h3 {
+.firstsectionedu > h3 {
   margin-left: 3vw;
 }
 
-.secondsection {
-  background-color: orange;
+.secondsectionedu {
+  background-color: teal;
   width: 50vw;
+  height: fit-content;
 }
 
-.secondsection > p {
+.secondsectionedu > p {
   font-size: 3rem;
   margin-left: 20vw;
   /* color: whitesmoke; */
-}
-
-.skills {
-  width: 70%;
-  margin-left: 8vw;
 }

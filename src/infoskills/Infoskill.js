@@ -5,13 +5,23 @@ import { SkillBars } from "react-skills";
 const skillsData = [
   {
     name: "ReactJS",
-    level: 100,
+    level: 80,
     color: "blue",
   },
   {
     name: "NodeJS",
-    level: 85,
+    level: 70,
     color: "red",
+  },
+  {
+    name: "MongoDB",
+    level: 60,
+    color: "green",
+  },
+  {
+    name: "ExpressJS",
+    level: 50,
+    color: "orange",
   },
 ];
 
@@ -44,9 +54,7 @@ const Infoskill = () => {
         <p>Personal Information</p>
         <h3>
           Lorem ipsum dolor sit, amet consectetur adipisicing elit. In
-          accusantium rem vero quam. Amet suscipit ipsum, assumenda praesentium
-          dicta earum alias consequatur voluptatum illum numquam enim et, iure
-          fugiat modi.
+          accusantium rem vero quam. Amet suscipit ipsum, iure fugiat modi.
         </h3>
       </div>
       <div class="secondsection">

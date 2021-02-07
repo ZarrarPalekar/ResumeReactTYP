@@ -28,10 +28,11 @@
   background-color: skyblue;
   width: 25vw;
   text-align: center;
+  padding-top: 1rem;
 }
 
 .addressdet > h3 {
-  font-size: 3rem;
+  font-size: 2rem;
   color: whitesmoke;
   font-weight: bolder;
 }
@@ -39,9 +40,10 @@
   background-color: palevioletred;
   width: 25vw;
   text-align: center;
+  padding-top: 1rem;
 }
 .teldet > h3 {
-  font-size: 3rem;
+  font-size: 2rem;
   color: whitesmoke;
   font-weight: bolder;
 }
@@ -49,9 +51,10 @@
   background-color: limegreen;
   width: 25vw;
   text-align: center;
+  padding-top: 1rem;
 }
 .emaildet > h3 {
-  font-size: 3rem;
+  font-size: 2rem;
   color: whitesmoke;
   font-weight: bolder;
 }

@@ -2,6 +2,7 @@ import "./App.css";
 import Header from "./header/Header";
 import Contact from "./contact/Contact";
 import Infoskill from "./infoskills/Infoskill";
+import Eduexp from "./eduexp/Eduexp";
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
       <Header />
       <Contact />
       <Infoskill />
+      <Eduexp />
     </div>
   );
 }
